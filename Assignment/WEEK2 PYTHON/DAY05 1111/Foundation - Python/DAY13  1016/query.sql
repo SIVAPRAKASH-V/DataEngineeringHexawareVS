@@ -1,0 +1,31 @@
+----create table student (StudentID int primary key, Name varchar(20), PhoneNumber varchar(12));
+----create table course(CourseID int primary key, CourseName varchar(20), instructor varchar(20));
+----create table enrollments(EnrollID int primary key, StudentID int not null, CourseID int not null, 
+----FOREIGN KEY (StudentID) REFERENCES student(StudentID), FOREIGN KEY (CourseID) REFERENCES course(CourseID));
+
+
+--INSERT INTO student (StudentID, Name, PhoneNumber) VALUES 
+--(1, 'John Doe', '9876543210'),
+--(2, 'Jane Smith', '8765432109'),
+--(3, 'Alice Johnson', '7654321098'),
+--(4, 'Bob Williams', '6543210987'),
+--(5, 'Charlie Brown', '5432109876'),
+--(6, 'David Miller', '4321098765'),
+--(7, 'Emily Davis', '3210987654'),
+--(8, 'Franklin Wilson', '2109876543'),
+--(9, 'Grace Thomas', '1098765432'),
+--(10, 'Harry Martin', '9988776655');
+
+--INSERT INTO course (CourseID, CourseName, Instructor) VALUES 
+--(101, 'Mathematics', 'Dr. Albert'),
+--(102, 'Physics', 'Dr. Newton'),
+--(103, 'Chemistry', 'Dr. Curie'),
+--(104, 'Biology', 'Dr. Darwin'),
+--(105, 'Computer Science', 'Dr. Turing'),
+--(106, 'History', 'Dr. Herodotus'),
+--(107, 'Literature', 'Dr. Shakespeare'),
+--(108, 'Economics', 'Dr. Keynes'),
+--(109, 'Philosophy', 'Dr. Socrates'),
+--(110, 'Psychology', 'Dr. Freud');
+--select * from student;
+--select * from course;

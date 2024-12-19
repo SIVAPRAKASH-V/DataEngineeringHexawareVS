@@ -1,0 +1,36 @@
+[
+    {
+        "name": "John Doe",
+        "age": 20,
+        "grade": 10,
+        "subjects": [
+            "Math",
+            "Science",
+            "English",
+            "History"
+        ],
+        "marks": {
+            "Math": 85,
+            "Science": 92,
+            "English": 78,
+            "History": 88
+        }
+    },
+    {
+        "name": "Jane Smith",
+        "age": 18,
+        "grade": 12,
+        "subjects": [
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "Computer Science"
+        ],
+        "marks": {
+            "Physics": 95,
+            "Chemistry": 88,
+            "Biology": 92,
+            "Computer Science": 98
+        }
+    }
+]

@@ -1,0 +1,21 @@
+def greet():
+    print("Welcome to the session!")
+
+company_name = "Hexaware"
+
+
+# This is an user defined module
+
+def greet():
+    print("Welcome to the session!")
+
+company_name = "Hexaware"
+
+def greet_person(user):
+    print("Welcome to the session, {}!".format(user))
+
+class Person:
+    def __init__(self, user):
+        self.user = user
+    def greet_person(self):
+        print("Welcome to the session, {}!".format(self.user))

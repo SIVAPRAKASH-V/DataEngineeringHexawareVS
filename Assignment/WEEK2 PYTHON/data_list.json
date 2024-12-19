@@ -1,0 +1,17 @@
+{
+    "name": "Jane Smith",
+    "age": 18,
+    "grade": 12,
+    "subjects": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Computer Science"
+    ],
+    "marks": {
+        "Physics": 95,
+        "Chemistry": 88,
+        "Biology": 92,
+        "Computer Science": 98
+    }
+}

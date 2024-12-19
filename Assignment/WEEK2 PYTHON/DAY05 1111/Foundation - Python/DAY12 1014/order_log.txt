@@ -1,0 +1,4 @@
+2024-10-14 11:51:03.945837: Order - Order contains: Pizza, Burger. Total: $25.2
+2024-10-14 12:07:35.796410: Order - Order contains: Pizza, Burger. Total: $25.2
+2024-10-14 12:25:05.430345: Order - Order contains: Pizza, Pizza. Total: $30
+2024-10-14 14:29:48.479454: Order - Order contains: Pizza, Burger, Fries, Pasta. Total: $45.0

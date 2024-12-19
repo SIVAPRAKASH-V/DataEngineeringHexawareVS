@@ -1,0 +1,11 @@
+Name,Marks
+John Doe,85
+Jane Smith,78
+Mike Johnson,92
+Emily Davis,88
+Chris Lee,74
+Sophie Turner,95
+David Kim,81
+Sara Patel,89
+Daniel Brown,76
+Lily Wilson,90
